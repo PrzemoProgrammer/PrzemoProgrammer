@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./GithubBanner.png)
 <h1 align="center">Hi, I'm Przemek Murawski 👨🏻‍💻</h1>
 <h3 align="center">HTML5 GAMES | Phaser3 | Pixi.js | TypeScript | Node.js | Blockchain | Full Stack Web Game Developer</h3>
 
