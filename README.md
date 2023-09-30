@@ -8,7 +8,7 @@
 
 - 📫 𝗛𝗼𝘄 𝘁𝗼 𝗿𝗲𝗮𝗰𝗵 𝗺𝗲  **przemek.murawski.developer@gmail.com**
 
-- 📄 Know about my experiences [https://muranwebsite.web.app/About](https://muranwebsite.web.app/About)
+- 📄 𝗞𝗻𝗼𝘄 𝗮𝗯𝗼𝘂𝘁 𝗺𝘆 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲𝘀 [https://muranwebsite.web.app/About](https://muranwebsite.web.app/About)
 
 - ⚡ 𝗙𝘂𝗻 𝗳𝗮𝗰𝘁 **𝐴 𝑝𝑎𝑡𝑖𝑒𝑛𝑡 𝑝𝑒𝑟𝑠𝑜𝑛 𝑐𝑎𝑛 𝑏𝑜𝑖𝑙 𝑒𝑣𝑒𝑛 𝑎 𝑠𝑡𝑜𝑛𝑒 **
 
