@@ -1,6 +1,6 @@
 ![Header](./GithubBanner.png)
 <h1 align="center">Hi, I'm Przemek Murawski 👨🏻‍💻</h1>
-<h3 align="center">HTML5 GAMES | Phaser3 | Pixi.js | TypeScript | Node.js | Blockchain | Full Stack Web Game Developer</h3>
+<h3 align="center">HTML5 GAMES | TypeScript | Pixi.js | Phaser3 | Node.js | Blockchain | Full Stack Web Game Developer</h3>
 
 <img align="right" alt="coding" src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 
